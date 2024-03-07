@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408116328081",
+    "project_id": "govtjobquest",
+    "storage_bucket": "govtjobquest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408116328081:android:b654f5266632ebfa11f130",
+        "android_client_info": {
+          "package_name": "com.shankha.govtjobquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408116328081-qu3nhnap341mkeh912mvhr7u3cngnf3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankha.govtjobquest",
+            "certificate_hash": "a53e6fdb9fdde4b373738f0b5855bdd45b5dbf69"
+          }
+        },
+        {
+          "client_id": "408116328081-1m465jje8qgf1hi0353b61kodppb2mgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUQa0-Op_hcnhQFH8MiRfpKCCa2kbt3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408116328081-1m465jje8qgf1hi0353b61kodppb2mgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
