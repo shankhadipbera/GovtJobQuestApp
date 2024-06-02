@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GovtJobQuest</string>
+    <string name="dontAccount"> Don\'t Have Account yet? <font color="#FFFFFF"><b><u><i>SignUp</i></u></b></font> </string>
+    <string name="Fpass"><u> Forgot My Password </u> </string>
+    
+    
+    <string name="app_id_test">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="bannerAd_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitialAd_id_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewards_ads_id_test">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="openAds_id_test">ca-app-pub-3940256099942544/9257395921</string>
+
+
+
+
+    <string name="app_id_live">ca-app-pub-7140234884838374~5203232313</string>
+    <string name="bannerAd_id_live">ca-app-pub-7140234884838374/6349982397</string>
+    <string name="interstitialAd_id_live">ca-app-pub-7140234884838374/2518209283</string>
+    
+</resources>
