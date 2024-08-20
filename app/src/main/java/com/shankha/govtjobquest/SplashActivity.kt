@@ -20,7 +20,7 @@ class SplashActivity : AppCompatActivity() {
         android.os.Handler(Looper.getMainLooper()).postDelayed({
             startActivity(Intent(this,LoginActivity::class.java))
             finish()
-        },3000)
+        },1500)
 
     }
 }
